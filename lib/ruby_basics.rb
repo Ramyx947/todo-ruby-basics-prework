@@ -11,8 +11,8 @@ def argue(greeting)
   puts greeting
 end
 
-def greeting(greeting,name)
-  if greeting +1
+def greeting(greeting, name)
+  if greeting
     puts "#{greeting}, there,"
   else
     puts "#{greeting}, there, #{name} "
