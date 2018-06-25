@@ -8,7 +8,7 @@ end
 
 def argue(phrase)
   phrase="I'm right and you are wrong!"
-  puts argue
+  phrase
 end
 
 def greeting(greeting, name)
